@@ -6,7 +6,9 @@ public class Sample {
 System.out.println("before class");
 	}
 	
-	
+	private void asii() {
+System.out.println("asii");
+	}
 	
 	
 }
